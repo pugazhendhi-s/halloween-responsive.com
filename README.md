@@ -1,2 +1,5 @@
-# halloween-responsive.com
-Made this only for only practice purpose
+# Responsive Halloween Website
+
+- Halloween Website(Responsive) using HTML CSS & JS
+
+
